@@ -1,0 +1,5 @@
+public class Amira{
+    public static void main(String[] args) {
+        System.out.println("Amira,ojimajeremiah8@gmail.com,miraclejeremiah060,genomic ");
+    }
+}
